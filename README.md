@@ -11,4 +11,4 @@
 </div>
 
 # About Me
-Hi there! 👋 I'm an 17-year-old amateur web developer from Poland with a passion for coding and computers since childhood. When I'm not coding, you'll find me playing the piano. Feel free to explore my projects! 😀
+Hi there! 👋 I'm a 17-year-old amateur web developer from Poland with a passion for coding and computers since childhood. When I'm not coding, you'll find me playing the piano. Feel free to explore my projects! 😀
