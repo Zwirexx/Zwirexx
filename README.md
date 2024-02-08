@@ -12,3 +12,5 @@
 
 # About Me
 Hi there! 👋 I'm a 17-year-old amateur web developer from Poland with a passion for coding and computers since childhood. When I'm not coding, you'll find me playing the piano. Feel free to explore my projects! 😀
+
+![github-user-contribution](https://github.com/Zwirexx/Zwirexx/assets/78261231/4a0d239c-0fe1-4db8-a24b-cba34d5ebc43)
